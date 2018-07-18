@@ -22,3 +22,4 @@ public class StringSubstring {
 		return false;
 	}
 }
+
