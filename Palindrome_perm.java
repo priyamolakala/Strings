@@ -33,7 +33,7 @@ public class Palindrome_perm {
 		if(a<=x && x<=z) {
 			return x - a; 
 		}
-		return -1;
+		return -1; 
 	}
 
 	public static int[] createArray(String s) {
