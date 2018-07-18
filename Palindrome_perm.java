@@ -22,7 +22,7 @@ public class Palindrome_perm {
 					return false;
 				}
 				foundOdd = true;
-			}
+			} 
 		}
 		return true;
 	}
